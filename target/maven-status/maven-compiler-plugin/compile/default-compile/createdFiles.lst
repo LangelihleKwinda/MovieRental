@@ -1,0 +1,7 @@
+com\movie\model\Movie.class
+com\movie\config\UserSecurityConfig.class
+com\movie\movieImplementation\MovieServiceImplem.class
+com\movie\demoMovieStore\DemoMovieStoreApplication.class
+com\movie\service\MovieService.class
+com\movie\repo\MovieRepository.class
+com\movie\controller\MovieController.class
